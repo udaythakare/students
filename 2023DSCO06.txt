@@ -1,2 +1,2 @@
 Name : Uday Vinod Thakare
-Skills : HTML, CSS, Javascript
+Skills : HTML, CSS, JavaScript, Typescript
